@@ -6,13 +6,13 @@ A first attempt at character drawing using only open source/free softwares (name
 
 ### alphabet
 
-![alphabet](https://raw.github.com/taniki/pNeuBau/tree/master/sources/specimens/specimen.png)
+![alphabet](https://raw.githubusercontent.com/taniki/pNeuBau/master/sources/specimens/specimen.png)
 
 ### samples
 
-![toi et moi](https://raw.github.com/taniki/pNeuBau/tree/master/sources/specimens/toietmoi.png)
+![toi et moi](https://raw.githubusercontent.com/taniki/pNeuBau/master/sources/specimens/toietmoi.png)
 
-![grosbisou](https://raw.github.com/taniki/pNeuBau/tree/master/sources/specimens/grosbisou.png)
+![grosbisou](https://raw.githubusercontent.com/taniki/pNeuBau/master/sources/specimens/grosbisous.png)
 
 ## License
 
