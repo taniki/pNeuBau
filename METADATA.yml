@@ -1,24 +1,17 @@
 ---
 unified font repository version: "0.2"
-unified font repository url: https://github.com/raphaelbastide/Unified-Font-Repository/
+unified font repository url: https://github.com/taniki/pNeuBau/
 typeface family:
-  name: Demo
+  name: pNeuBau
   tags:
-  - sans-serif
-  - pixel
-  - 80s
-  - condesed
-  - grotesque
-  - monospace
-  - incomplete
   - decorative
-  repository url: https://github.com/user/Demo
-  project url: https://website.com/demofontproject
+  - abstract
+  repository url: https://github.com/taniki/pNeuBau/
+  project url: https://github.com/taniki/pNeuBau/
   tools:
   - Inkscape
   - Fontforge
   similar fonts:
   - Helvetica
   - Neue Haas Grotesk
-  sample text: The quick brown fox jumps over the lazy dog
 ...

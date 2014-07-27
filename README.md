@@ -1,10 +1,18 @@
-# Myfont
+# pNeuBau
 
-Short description of Demo
+A first attempt at character drawing using only open source/free softwares (namely [inkscape](http://www.inkscape.org/en/) and [fontforge](http://fontforge.github.io/))
 
-## Specimen
+## Specimens
 
-![Demo-Italic-v1.001-specimen-001](https://github.com/raphaelbastide/Unified-Font-Repository/master/documentation/images/Demo-Italic-v1.001-specimen-001.png)
+### alphabet
+
+![alphabet](https://github.com/taniki/pNeuBau/master/sources/specimens/specimen.png)
+
+### samples
+
+![toi et moi](https://github.com/taniki/pNeuBau/master/sources/specimens/toietmoi.png)
+
+![grosbisou](https://github.com/taniki/pNeuBau/master/sources/specimens/grosbisou.png)
 
 ## License
 
