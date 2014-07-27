@@ -1,6 +1,8 @@
 # pNeuBau
 
-A first attempt at character drawing using only open source/free softwares (namely [inkscape](http://www.inkscape.org/en/) and [fontforge](http://fontforge.github.io/))
+A first attempt at character drawing using only open source/free softwares (namely [inkscape](http://www.inkscape.org/en/) and [fontforge](http://fontforge.github.io/)).
+
+The main idea was to produce a modulare typeface based on tires and pattern found in the city during the first wandering hour of the [VTF Free Typography Marathon](http://velvetyne.fr/marathongeneral/). We ended up trying to draw a [pattern from a tire](https://github.com/taniki/pNeuBau/blob/master/sources/inspiration/IMG_4994.jpg) while discovering the wonders of inkscape but finally went to a simpler design.
 
 ## Specimens
 
