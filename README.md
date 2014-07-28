@@ -4,6 +4,8 @@ A first attempt at character drawing using only open source/free softwares (name
 
 The main idea was to produce a modulare typeface based on tires and pattern found in the city during the first wandering hour of the [VTF Free Typography Marathon](http://velvetyne.fr/marathongeneral/). We ended up trying to draw a [pattern from a tire](https://github.com/taniki/pNeuBau/blob/master/sources/inspiration/IMG_4994.jpg) while discovering the wonders of inkscape but finally went to a simpler design.
 
+The font name is a very wise reference to Pierre's obsession about tires ("pneu" in french) and [NeuBau, a famous group of graphic designers](http://neubauladen.com/).
+
 ## Specimens
 
 ### alphabet
